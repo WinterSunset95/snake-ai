@@ -1,8 +1,8 @@
 # Snake-AI
 
-<h3>Why I made this projet:</h3>
+<h3>Why I made this project:</h3>
 <ul>
-	<li>To practice what I've about machine learning</li>
+	<li>To practice what I've learnt about machine learning</li>
 	<li>To gain more skill and experience</li>
 	<li>Personal entertainment</li>
 </ul>
